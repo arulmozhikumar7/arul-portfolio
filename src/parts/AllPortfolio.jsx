@@ -23,7 +23,7 @@ export default function AllPortfolio({ data }) {
               </Tab>
               <Tab>
                 <button className="px-5 py-2 mr-3 text-lg font-normal transition duration-300 border rounded-full text-theme-purple border-theme-purple hover:bg-theme-purple hover:text-white focus:outline-none focus:bg-theme-purple focus:text-white">
-                  Mobile Apps
+                  App
                 </button>
               </Tab>
               <Tab>
