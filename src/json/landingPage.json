@@ -1,0 +1,239 @@
+{
+  "service": [
+    {
+      "title": "Frontend Development",
+      "imageUrl": "https://lottie.host/cb3f024e-70a4-4f2c-b1a9-68717d0c09a0/GgLZmstKNV.json"
+    },
+    {
+      "title": "Backend Development",
+      "imageUrl": "https://lottie.host/69466c9c-fcb8-403a-96cc-e01ac7ad76f2/qwPlfNvEGN.json"
+    },
+    {
+      "title": "Mobile App Development",
+      "imageUrl": "https://lottie.host/3e613801-ba66-432c-9521-aee82314cc60/njiIRKpqxs.json"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "asd1293uasdads1",
+      "title": "Pizza Ordering App",
+      "imageUrl": "assets/images/pizza.png",
+      "type": "Website",
+      "description": "A Pizza Ordering Web Application made with MERN stack where users can login and order their pizzas. The Orders can be viewed with Admin login.",
+      "responsibility": ["Frontend Development", "Backend Development"],
+      "credit": "https://pizza-delivery-application-frontend.vercel.app/"
+    },
+    {
+      "id": "asd1293ufgdfgs4",
+      "title": "Software Portfolio",
+      "imageUrl": "assets/images/cng.png",
+      "description": "The CNG Navigator Portfolio Website serves as a comprehensive showcase of our cutting-edge software solutions designed specifically for the compressed natural gas (CNG) industry. It provides visitors with an overview of our products, their features, and how they can benefit businesses operating in the CNG sector.",
+      "type": "Website",
+      "responsibility": ["Web Development", "UI/UX Design"],
+      "credit": "https://www.cngnavigator.com/"
+    },
+    {
+      "id": "asd1293ufgdfgs5",
+      "title": "Newsletter Prototype",
+      "imageUrl": "assets/images/newsletter.png",
+      "type": "Website",
+      "description": "A newsletter prototype made with React.js where users can subscribe to newsletter.",
+      "responsibility": ["Web Development", "UI/UX Design"],
+      "credit": "https://newsletter-prototype-frontend.vercel.app/"
+    },
+    {
+      "id": "asd1293ufgdfgs6",
+      "title": "Expense Tracker",
+      "imageUrl": "assets/images/expensetracker.png",
+      "type": "Website",
+      "description": "An Expense Tracker Web Application made with MERN stack where users can track their expenses.",
+      "responsibility": ["Frontend Development", "Backend Development"],
+      "credit": "https://expense-tracker-psi-five-33.vercel.app/"
+    },
+    {
+      "id": "asd1293ufgdfgs7",
+      "title": "Solar System Explorer",
+      "imageUrl": "assets/images/solarsystem.png",
+      "type": "Website",
+      "description": "A Solar System Explorer Web Application made with React.js where users can explore the solar system.",
+      "responsibility": ["Web Development", "UI/UX Design"],
+      "credit": "https://arulmozhikumar7.github.io/SolarSystem-Explorer/"
+    },
+    {
+      "id": "asd1293ufgdfgs8",
+      "title": "Simple Expense Tracker",
+      "imageUrl": "assets/images/expenseapp.png",
+      "type": "Mobile Apps",
+      "description": "An Expense Tracker Mobile Application made with React Native where users can track their expenses.",
+      "responsibility": ["Mobile Development"],
+      "credit": "https://github.com/arulmozhikumar7/Expense-Tracker-Mobile-App"
+    },
+    {
+      "id": "asd1293ufgdfgs9",
+      "title": "Table Ease",
+      "imageUrl": "assets/images/table.png",
+      "type": "Mobile Apps",
+      "description": "An Expense Tracker Mobile Application made with React Native where users can track their expenses.",
+      "responsibility": ["Mobile Development"],
+      "credit": ""
+    },
+    {
+      "id": "asd1293ufgdfgs10",
+      "title": "College Query  Bot",
+      "imageUrl": "assets/images/vecbot.png",
+      "type": "Chat Bot",
+      "description": "A Telegram Bot made with Node.js where users can query the college details.",
+      "responsibility": ["Backend Development"],
+      "credit": "https://t.me/VEC_SAMPLE_bot"
+    },
+    {
+      "id": "asd1293ufgdfgs11",
+      "title": "Pitstop Bot",
+      "imageUrl": "assets/images/pitstop.png",
+      "type": "Chat Bot",
+      "description": "A Telegram Bot made with Node.js where users can query the college details.",
+      "responsibility": ["Backend Development"],
+      "credit": "https://t.me/pitstoppp_bot"
+    },
+    {
+      "id": "asd1293ufgdfgs12",
+      "title": "Birthday Wisher",
+      "imageUrl": "assets/images/birthdaywisher.png",
+      "type": "Micro Saas Application",
+      "description": "A Telegram Bot made with Node.js where users can query the college details.",
+      "responsibility": ["Backend Development"],
+      "credit": "https://arulmozhikumar7.github.io/BIRTHDAY-WISHER/"
+    }
+  ],
+  "advantage": [
+    [
+      {
+        "title": "Communicative",
+        "description": "We communicate our project ideas and progress to make it clear.",
+        "imageUrl": "assets/images/Communicative.png"
+      },
+      {
+        "title": "Management",
+        "description": "We manage our project properly to make our project done well.",
+        "imageUrl": "assets/images/Management.png"
+      }
+    ],
+    [
+      {
+        "title": "Collaborative​",
+        "description": "Our team are very collaborative to make our project done well.",
+        "imageUrl": "assets/images/Collaborative.png"
+      },
+      {
+        "title": "Favourite",
+        "description": "We've did so many project and all of our client love it.",
+        "imageUrl": "assets/images/Favourite.png"
+      }
+    ]
+  ],
+  "testimonial": [
+    {
+      "name": "Sasha Rose",
+      "company": "Owner, Surveyor Corps",
+      "testimoni": "Thanks for VG TECH, you guys are the best! Keep up the great work!",
+      "imageUrl": "assets/images/Sasha.jpg"
+    },
+    {
+      "name": "Kruger Khan",
+      "company": "Director, Shultan Oil",
+      "testimoni": "I just wanted to let you know that it’s been great working with VG TECH.",
+      "imageUrl": "assets/images/Kruger.jpg"
+    },
+    {
+      "name": "Reiner John",
+      "company": "CEO, Marley CO",
+      "testimoni": "VG TECH is so great. Thank you so much for a job well done.",
+      "imageUrl": "assets/images/Reiner.jpg"
+    }
+  ],
+  "team": [
+    {
+      "name": "Monica Lovegood",
+      "position": "UI/UX Designer",
+      "imageUrl": "assets/images/UIUX1.jpg",
+      "description": {
+        "skills": ["UI/UX Design", "Prototyping", "Adobe XD"]
+      }
+    },
+    {
+      "name": "Pauline Sydney",
+      "position": "HRD",
+      "imageUrl": "assets/images/HRD.jpg",
+      "description": {
+        "skills": ["Employee Relations", "Recruitment", "Training "]
+      }
+    },
+    {
+      "name": "Jim Hendrix",
+      "position": "Front-end Developer",
+      "imageUrl": "assets/images/Frontend1.jpg",
+      "description": {
+        "skills": ["HTML", "CSS", "JavaScript", "React.js"]
+      }
+    },
+    {
+      "name": "Hawkins Jim",
+      "position": "Back-end Developer",
+      "imageUrl": "assets/images/Backend1.jpg",
+      "description": {
+        "skills": ["Node.js", "Express.js", "MongoDB", "DBMS"]
+      }
+    }
+  ],
+  "about": [
+    {
+      "title": "About Us",
+      "description": " About VG Tech is located in Chennai City of India. Specifically, We are a bunch of folks who believe in the idea of evocative storytelling. And also, Our team uses the visual medium to create lasting impressions. With no detail too small, no challenge too big and we truly believe in the marriage of production and design."
+    }
+  ],
+  "education": [
+    {
+      "title": "About My Education",
+      "description": "I'm in my final year of college studying Computer Science with a focus on Full Stack Development. Alongside my formal coursework, I'm passionate about continuous learning, frequently exploring YouTube courses to deepen my skills, particularly in the MERN stack (MongoDB, Express.js, React.js, Node.js). I've supplemented my education with personal projects, where I've developed various web applications showcasing my proficiency in designing responsive user interfaces, implementing RESTful APIs, and managing databases efficiently."
+    }
+  ],
+  "Openings": [
+    {
+      "title": "Web Developer",
+      "type": "Intern",
+      "imageUrl": "assets/images/Web.png",
+
+      "description": [
+        "Develop new components based on design specs.",
+        "Work independently and write maintainable code.",
+        "Understand existing code and suggest optimization in terms of functionality and performance.",
+        "Work on client frameworks for caching and develop reusable components."
+      ],
+      "note": " Please note that we have requirements for this role in Chennai, Salem, Coimbatore, Tirunelveli, and Madurai."
+    },
+    {
+      "title": "App Developer",
+      "type": "Intern",
+      "imageUrl": "assets/images/Mobile.png",
+      "description": [
+        "Design and develop mobile applications for iOS and Android platforms .",
+        "Collaborate with cross-functional teams to define, design, and ship new features.",
+        "Write clean, maintainable, and efficient code.",
+        "Optimize applications for maximum performance and scalability."
+      ],
+      "note": " Please note that we have requirements for this role in Chennai, Salem, Coimbatore, Tirunelveli, and Madurai."
+    },
+    {
+      "title": "Digital Marketer",
+      "type": "Intern",
+      "imageUrl": "assets/images/marketing.jpg",
+      "description": [
+        "Develop and execute digital marketing strategies to drive online traffic to the company website and generate leads.",
+        "Manage and optimize digital advertising campaigns across various platforms such as Google Ads, Facebook Ads, LinkedIn Ads, etc.",
+        "Conduct keyword research and optimize website content for search engine optimization (SEO).",
+        "Create engaging content for social media platforms to increase brand awareness and engagement."
+      ],
+      "note": " Please note that we have requirements for this role in Chennai, Salem, Coimbatore, Tirunelveli, and Madurai."
+    }
+  ]
+}
