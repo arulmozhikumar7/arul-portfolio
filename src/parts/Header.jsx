@@ -124,7 +124,7 @@ export default function Header({ ...props }) {
               Home
             </Button>
           </li>
-          <li className="py-2 bg-white">
+          {/* <li className="py-2 bg-white">
             <Button
               className={`${
                 path === "/about-us" ? "active-link" : ""
@@ -134,7 +134,7 @@ export default function Header({ ...props }) {
             >
               About Us
             </Button>
-          </li>
+          </li> */}
           <li className="py-2 bg-white">
             <Button
               className={`${
