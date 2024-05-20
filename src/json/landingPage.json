@@ -103,6 +103,15 @@
       "description": "A Telegram Bot made with Node.js where users can query the college details.",
       "responsibility": ["Backend Development"],
       "credit": "https://arulmozhikumar7.github.io/BIRTHDAY-WISHER/"
+    },
+    {
+      "id": "asd1293ufgdfgs13",
+      "title": "Typing Tutor",
+      "imageUrl": "assets/images/type.png",
+      "type": "Website",
+      "description": "A React js based typing tutor website.",
+      "responsibility": ["Web Development"],
+      "credit": "type-tutor.vercel.app/"
     }
   ],
   "advantage": [
