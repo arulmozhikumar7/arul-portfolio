@@ -1,6 +1,6 @@
 import React from "react";
+import Spline from "@splinetool/react-spline";
 
-import Button from "@elements/button";
 import { motion } from "framer-motion";
 export default function Hero() {
   return (
@@ -69,18 +69,25 @@ export default function Hero() {
             },
           }}
           viewport={{ once: true }}
-          className="flex items-center justify-center order-first w-full md:w-full lg:order-last lg:w-1/2"
+          className="flex items-center justify-center order-first w-full md:w-full lg:order-last lg:w-full"
         >
-          <lottie-player
-            src="./hero.json"
-            background="##fff"
-            speed="1"
-            style={{ width: "100%", height: "100%" }}
-            autoplay
-            loop
-            direction="1"
-            mode="normal"
-          ></lottie-player>
+          <div className="w-full h-full md:hidden">
+            <lottie-player
+              src="./hero.json"
+              background="##fff"
+              speed="1"
+              style={{ width: "100%", height: "100%" }}
+              autoplay
+              loop
+              direction="1"
+              mode="normal"
+            ></lottie-player>
+          </div>
+
+          <Spline
+            className="hidden w-full h-full lg:block"
+            scene="https://draft.spline.design/f1XcjIxmTvV5jSIf/scene.splinecode"
+          />
         </motion.div>
       </div>
     </section>
