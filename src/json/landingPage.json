@@ -130,6 +130,24 @@
       "description": "A React js based weather app.",
       "responsibility": ["Web Development"],
       "credit": "https://arulmozhikumar7.github.io/React-WeatherApp/"
+    },
+    {
+      "id": "asd1293ufgdfgs16",
+      "title": "Qoute Generator",
+      "imageUrl": "assets/images/qoute-generator.png",
+      "type": "Website",
+      "description": "A React js based qoute generator app.",
+      "responsibility": ["Web Development"],
+      "credit": "https://arulmozhikumar7.github.io/React-Quote-Generator/"
+    },
+    {
+      "id": "asd1293ufgdfgs17",
+      "title": "QR Code Generator",
+      "imageUrl": "assets/images/qr-code.png",
+      "type": "Website",
+      "description": "A React js based qr code generator app.",
+      "responsibility": ["Web Development"],
+      "credit": "https://arulmozhikumar7.github.io/React-QR-code/"
     }
   ],
   "advantage": [
