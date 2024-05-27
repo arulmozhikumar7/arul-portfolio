@@ -121,6 +121,15 @@
       "description": "A React js and firebase based birthday buddy website.",
       "responsibility": ["Web Development"],
       "credit": "https://birthday-buddy-taupe.vercel.app/"
+    },
+    {
+      "id": "asd1293ufgdfgs15",
+      "title": "Weather App",
+      "imageUrl": "assets/images/weather.png",
+      "type": "Website",
+      "description": "A React js based weather app.",
+      "responsibility": ["Web Development"],
+      "credit": "https://arulmozhikumar7.github.io/React-WeatherApp/"
     }
   ],
   "advantage": [
